@@ -1,0 +1,23 @@
+h2 {
+ color: orange;	
+}
+
+p {
+ font-family: arial;
+}
+
+body{
+background-color: thistle;   
+}
+
+li {
+ text-transform: uppercase;
+}
+
+.header{
+	font-size: 1.5;
+	margin: 20px;
+	padding: 40px;
+}
+
+
